@@ -2,31 +2,42 @@
 
 # João Victor Camargo Andrade
 
-### Desenvolvedor em formação • Back-End • Front-End • Full Stack em evolução
+### Back-End Developer in Training • Front-End Enthusiast • Future Full Stack Developer
 
 <p>
-  Estudante de <strong>Técnico em Informática para Internet</strong> no IFSP, 
-  focado em desenvolvimento Back-End e construção de aplicações web modernas.
+  Student of <strong>Técnico em Informática para Internet</strong> at IFSP, 
+  focused on Back-End development and modern web applications.
+</p>
+
+<p>
+  <a href="mailto:joaovictorcamargoandrade@gmail.com">
+    <img src="https://img.shields.io/badge/Email-181717?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+
+  <a href="https://www.linkedin.com/in/jo%C3%A3o-andrade-996547324/">
+    <img src="https://img.shields.io/badge/LinkedIn-181717?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
 </p>
 
 </div>
 
 ---
 
-## 👨‍💻 Sobre Mim
+## 👨‍💻 About Me
 
-Atualmente estudo desenvolvimento web com foco principal em Back-End utilizando Node.js e JavaScript, enquanto também evoluo minhas habilidades em Front-End para futuramente atuar como Desenvolvedor Full Stack.
+I am currently studying web development with a primary focus on Back-End technologies using Node.js and JavaScript, while also improving my Front-End skills to become a Full Stack Developer in the future.
 
-Tenho interesse em:
-- Desenvolvimento de APIs
-- Aplicações web modernas
-- Banco de dados
-- Arquitetura Back-End
-- Interfaces responsivas e intuitivas
+My main interests include:
+- REST APIs
+- Web Applications
+- Databases
+- Back-End Architecture
+- Responsive Interfaces
+- Modern Development Practices
 
 ---
 
-## 🛠️ Tecnologias
+## 🛠️ Technologies
 
 <p align="left">
   <img alt="HTML" height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
@@ -72,13 +83,13 @@ Tenho interesse em:
 
 ---
 
-## 🚀 Projeto em Destaque
+## 🚀 Featured Project
 
 ### 🌿 Oka-Porã
 
-Projeto desenvolvido no primeiro módulo do IFSP para aprendizado de HTML e CSS.
+Project developed during the first IFSP module focused on learning HTML and CSS fundamentals.
 
-🔗 Repositório:  
+🔗 Repository:  
 https://github.com/jvxfc/oka-pora
 
 🌐 Website:  
@@ -86,25 +97,28 @@ https://jvxfc.github.io/oka-pora/
 
 ---
 
-## 🎯 Objetivos
+## 🎯 Goals
 
-- Evoluir como Desenvolvedor Back-End
-- Expandir conhecimentos em Front-End
-- Atuar futuramente como Full Stack
-- Construir projetos profissionais e escaláveis
-- Aprender novas tecnologias constantemente
+- Become a professional Back-End Developer
+- Expand Front-End knowledge
+- Work as a Full Stack Developer in the future
+- Build scalable and professional applications
+- Constantly improve technical skills
 
 ---
 
-## 📫 Contato
+## 📫 Contact
 
-📧 **Email:**  
+📧 Email:  
 joaovictorcamargoandrade@gmail.com
+
+💼 LinkedIn:  
+https://www.linkedin.com/in/jo%C3%A3o-andrade-996547324/
 
 ---
 
 <div align="center">
 
-### “Transformando aprendizado em projetos reais.”
+### “Turning learning into real-world projects.”
 
 </div>
