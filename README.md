@@ -1,16 +1,45 @@
-## Hi there 👋
+# 👋 Olá, eu sou João Victor
 
-<!--
-**jvxfc/jvxfc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Estudante de Desenvolvimento de Sistemas no IFSP  
+🚀 Desenvolvedor em constante aprendizado  
+📚 Atualmente estudando Front-End, Back-End e Banco de Dados  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tecnologias
+
+<div>
+  <img align="center" alt="HTML" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+  <img align="center" alt="JS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+  <img align="center" alt="Git" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+  <img align="center" alt="GitHub" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
+  <img align="center" alt="MySQL" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
+</div>
+
+---
+
+## 📈 GitHub Stats
+
+![João GitHub stats](https://github-readme-stats.vercel.app/api?username=jvxfc&show_icons=true&theme=github_dark)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jvxfc&layout=compact&theme=github_dark)
+
+---
+
+## 🚀 Objetivos
+
+- Evoluir como Desenvolvedor Full Stack
+- Criar projetos profissionais
+- Aprender novas tecnologias
+- Construir um portfólio sólido
+
+---
+
+## 📫 Contato
+
+📧 joaovictorcamargoandrade@gmail.com
+
+---
+
+⭐ “Todo especialista já foi iniciante um dia.”
