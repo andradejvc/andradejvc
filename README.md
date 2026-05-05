@@ -31,9 +31,13 @@
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jvxfc&show_icons=true&theme=tokyonight&hide_border=true)
+<p>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jvxfc&show_icons=true&theme=tokyonight&cache_seconds=1800"/>
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jvxfc&layout=compact&theme=tokyonight&cache_seconds=1800"/>
+</p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jvxfc&layout=compact&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=jvxfc&theme=tokyonight)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=jvxfc&theme=tokyonight&hide_border=true)
 
