@@ -2,11 +2,11 @@
 
 # João Victor Camargo Andrade
 
-### Back-End Developer in Training • Front-End Enthusiast • Future Full Stack Developer
+### Desenvolvedor Back-End em formação • Front-End Enthusiast • Futuro Full Stack
 
 <p>
-  Student of <strong>Técnico em Informática para Internet</strong> at IFSP, 
-  focused on Back-End development and modern web applications.
+  Estudante de <strong>Técnico em Informática para Internet</strong> no IFSP, 
+  focado em desenvolvimento Back-End e aplicações web modernas.
 </p>
 
 <p>
@@ -23,21 +23,21 @@
 
 ---
 
-## 👨‍💻 About Me
+## 👨‍💻 Sobre Mim
 
-I am currently studying web development with a primary focus on Back-End technologies using Node.js and JavaScript, while also improving my Front-End skills to become a Full Stack Developer in the future.
+Atualmente estudo desenvolvimento web com foco principal em Back-End utilizando Node.js e JavaScript, enquanto também evoluo minhas habilidades em Front-End para futuramente atuar como Desenvolvedor Full Stack.
 
-My main interests include:
-- REST APIs
-- Web Applications
-- Databases
-- Back-End Architecture
-- Responsive Interfaces
-- Modern Development Practices
+Tenho interesse em:
+- APIs REST
+- Aplicações Web
+- Banco de Dados
+- Arquitetura Back-End
+- Interfaces Responsivas
+- Boas práticas de desenvolvimento
 
 ---
 
-## 🛠️ Technologies
+## 🛠️ Tecnologias
 
 <p align="left">
   <img alt="HTML" height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
@@ -83,13 +83,13 @@ My main interests include:
 
 ---
 
-## 🚀 Featured Project
+## 🚀 Projeto em Destaque
 
 ### 🌿 Oka-Porã
 
-Project developed during the first IFSP module focused on learning HTML and CSS fundamentals.
+Projeto desenvolvido durante o primeiro módulo do IFSP com foco no aprendizado de HTML e CSS.
 
-🔗 Repository:  
+🔗 Repositório:  
 https://github.com/jvxfc/oka-pora
 
 🌐 Website:  
@@ -97,17 +97,17 @@ https://jvxfc.github.io/oka-pora/
 
 ---
 
-## 🎯 Goals
+## 🎯 Objetivos
 
-- Become a professional Back-End Developer
-- Expand Front-End knowledge
-- Work as a Full Stack Developer in the future
-- Build scalable and professional applications
-- Constantly improve technical skills
+- Evoluir como Desenvolvedor Back-End
+- Expandir conhecimentos em Front-End
+- Atuar futuramente como Full Stack
+- Construir aplicações profissionais e escaláveis
+- Aprender novas tecnologias constantemente
 
 ---
 
-## 📫 Contact
+## 📫 Contato
 
 📧 Email:  
 joaovictorcamargoandrade@gmail.com
@@ -119,6 +119,6 @@ https://www.linkedin.com/in/jo%C3%A3o-andrade-996547324/
 
 <div align="center">
 
-### “Turning learning into real-world projects.”
+### “Transformando aprendizado em projetos reais.”
 
 </div>
