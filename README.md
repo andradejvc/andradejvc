@@ -14,7 +14,7 @@
     <img src="https://img.shields.io/badge/Email-181717?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 
-  <a href="https://www.linkedin.com/in/jo%C3%A3o-andrade-996547324/">
+  <a href="https://www.linkedin.com/in/joão-victor-camargo-andrade-996547324?utm_source=share_via&utm_content=profile&utm_medium=member_android">
     <img src="https://img.shields.io/badge/LinkedIn-181717?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
@@ -113,7 +113,7 @@ https://jvxfc.github.io/oka-pora/
 joaovictorcamargoandrade@gmail.com
 
 💼 LinkedIn:  
-https://www.linkedin.com/in/jo%C3%A3o-andrade-996547324/
+https://www.linkedin.com/in/joão-victor-camargo-andrade-996547324?utm_source=share_via&utm_content=profile&utm_medium=member_android
 
 ---
 
