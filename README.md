@@ -72,13 +72,13 @@ Tenho interesse em:
 ## 📈 GitHub Stats
 
 <p align="left">
-  <img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=jvxfc&show_icons=true&theme=tokyonight"/>
+  <img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=andradejvc&show_icons=true&theme=tokyonight"/>
 
-  <img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=jvxfc&layout=compact&theme=tokyonight"/>
+  <img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=andradejvc&layout=compact&theme=tokyonight"/>
 </p>
 
 <p align="left">
-  <img src="https://streak-stats.demolab.com?user=jvxfc&theme=tokyonight"/>
+  <img src="https://streak-stats.demolab.com?user=andradejvc&theme=tokyonight"/>
 </p>
 
 ---
@@ -90,10 +90,10 @@ Tenho interesse em:
 Projeto desenvolvido durante o primeiro módulo do IFSP com foco no aprendizado de HTML e CSS.
 
 🔗 Repositório:  
-https://github.com/jvxfc/oka-pora
+https://github.com/andradejvc/oka-pora
 
 🌐 Website:  
-https://jvxfc.github.io/oka-pora/
+https://andradejvc.github.io/oka-pora/
 
 ---
 
